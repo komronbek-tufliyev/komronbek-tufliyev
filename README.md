@@ -9,4 +9,4 @@
 <img align="left" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
 
 
-![snake gif](https://github.com/Komronbek2/Komronbek2/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/komronbek-tufliyev/komronbek-tufliyev/blob/output/github-contribution-grid-snake.gif)
