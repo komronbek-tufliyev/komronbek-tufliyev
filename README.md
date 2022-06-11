@@ -8,5 +8,6 @@
 <img align="left" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
 
+[![Komronbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=komronbek_dev)](https://github.com/komronbek-tufliyev/github-readme-stats)
 
-![snake gif](https://github.com/komronbek-tufliyev/komronbek-tufliyev/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/komronbek-tufliyev/blob/output/github-contribution-grid-snake.gif)
