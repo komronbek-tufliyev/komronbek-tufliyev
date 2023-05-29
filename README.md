@@ -10,6 +10,8 @@
   <img height="180em" style="border:3px solid red;"src="https://github-readme-stats.vercel.app/api/top-langs/?username=komronbek-tufliyev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=komronbek-tufliyev&theme=tokyonight_duo&hide_border=true)](https://github.com/komronbek-tufliyev/)
+
 <br>
   
 ## 🤹 Languages and Tools:
