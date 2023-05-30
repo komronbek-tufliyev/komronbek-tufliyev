@@ -2,7 +2,7 @@
 <h3 align="center">
   Welcome to Komronbek Tufliev's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=komronbek-tufliyev&label=Profile%20views&color=0e75b6&style=flat" alt="komronbek-tufliyev" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=komronbek-tufliyev&label=Profile%20views&color=0e75b6&style=flat" alt="komronbek-tufliyev" /> </p>
 
 </h3>
 <br>
