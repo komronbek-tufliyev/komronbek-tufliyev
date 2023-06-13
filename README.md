@@ -5,14 +5,18 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=komronbek-tufliyev&label=Profile%20views&color=0e75b6&style=flat" alt="komronbek-tufliyev" /> </p>
 
 </h3>
+
 <br>
+<div align="center"> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=komronbek-tufliyev&theme=github_dark"/>
+</div> 
+<br/>
 <div align="center">
   <a href="https://github.com/komronbek-tufliyev">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=komronbek-tufliyev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" style="border:3px solid red;"src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=komronbek-tufliyev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
- 
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=komronbek-tufliyev&theme=tokyonight_duo&hide_border=true)](https://github.com/komronbek-tufliyev/)
  
 <br>
