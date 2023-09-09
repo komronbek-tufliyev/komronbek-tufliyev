@@ -66,7 +66,7 @@
 <br>  
 
 <div align="center"> 
-  <a href="https://www.youtube.com/channel/UCuqyDwL24mdZ0gqy6jXKL8g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<!--   <a href="https://www.youtube.com/channel/UCuqyDwL24mdZ0gqy6jXKL8g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   <a href="https://t.me/archer_dev" target="_blank"><img src="https://img.shields.io/badge/-TELEGRAM-%230077B5?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href = "mailto:tufliyev@tuit.uz"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   <br>  
